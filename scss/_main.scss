@@ -218,6 +218,15 @@ nav ul li.center{
     margin-right: 42px;
     margin-top: 63px;
 }
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color:grey;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+}
+.carousel-item{
+    text-align:center;
+}
 a.letter-one {
 @include pie;
 }
