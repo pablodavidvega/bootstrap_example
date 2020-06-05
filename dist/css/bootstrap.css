@@ -7967,6 +7967,15 @@ nav ul li.center {
   margin-right: 42px;
   margin-top: 63px; }
 
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color: grey;
+  display: inline-block;
+  width: 10px;
+  height: 10px; }
+
+.carousel-item {
+  text-align: center; }
+
 a.letter-one {
   background: #fff;
   padding: 28px 113px;
@@ -7999,7 +8008,7 @@ hr.end {
   height: 32px; }
 
 h3 hr.ben {
-  background-color: pink;
+  background-color: blue;
   margin-right: 619px;
   margin-top: 0px;
   padding: 3px; }
