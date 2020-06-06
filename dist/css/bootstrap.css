@@ -8046,7 +8046,8 @@ h3 hr.ben {
     height: 44px;
     padding: 9px 415px 9px 9px;
     margin-right: -6px;
-    border: 8px; }
+    border: 8px;
+    margin-top: 14px; }
   .newsletter-wrapper button.btn {
     background-color: #42a5f5;
     height: 50px; }

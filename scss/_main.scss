@@ -93,24 +93,6 @@ body{
         margin-top: -52px;
     }
 }
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 h1{
     margin-bottom: -12px;
     color:#0F3F7A;
@@ -125,7 +107,6 @@ h2{
 }
 .container{
     width:70%;
-   // margin-bottom: 75px;
 }
 .first-menu{
     background:#0F3F7A;  
@@ -280,14 +261,11 @@ h3 hr.ben{
         margin-bottom: -6px;
         margin-left: -35px;
     }
-
-
     label.weekly{
         padding-left: 32px;
         position: relative;
         margin-right: 43px;
-        margin-bottom: 0;
-    
+        margin-bottom: 0;  
     }
     input.email{
     text-decoration: none;
@@ -298,6 +276,7 @@ h3 hr.ben{
     padding: 9px 415px 9px 9px;
     margin-right: -6px;
     border:8px;
+    margin-top: 14px;
     }
     button.btn{
      background-color:#42a5f5;
